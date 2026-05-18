@@ -1,4 +1,4 @@
-<h3 align="center">Desenvolvedor Fullstack</h3>
+<h3 align="center">Fullstack Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
