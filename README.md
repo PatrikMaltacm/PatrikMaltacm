@@ -19,13 +19,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/PatrikMaltacm/PatrikMaltacm/output/github-contribution-grid-snake.svg" alt="Hands-on Animation" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PatrikMaltacm&show_icons=true&theme=dark" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrikMaltacm&layout=compact&theme=dark" height="150" alt="languages graph" />
-</div>
-
-###
